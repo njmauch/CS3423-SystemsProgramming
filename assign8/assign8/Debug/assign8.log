@@ -1,0 +1,4 @@
+﻿  assign8.c
+c:\users\njmau\source\repos\assign8\assign8\assign8.c(15): warning C4101: 'lWaitPid': unreferenced local variable
+c:\users\njmau\source\repos\assign8\assign8\assign8.c(14): warning C4101: 'lForkPid': unreferenced local variable
+  assign8.vcxproj -> C:\Users\njmau\source\repos\assign8\Debug\assign8.exe
