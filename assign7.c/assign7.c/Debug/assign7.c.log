@@ -1,0 +1,14 @@
+﻿  assign7.c
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(34): warning C4013: 'open' undefined; assuming extern returning int
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(46): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(71): warning C4013: 'close' undefined; assuming extern returning int
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(84): warning C4013: 'read' undefined; assuming extern returning int
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(104): warning C4013: 'write' undefined; assuming extern returning int
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(118): warning C4013: 'lseek' undefined; assuming extern returning int
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(174): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(175): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(175): warning C4024: 'atoi': different types for formal and actual parameter 1
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(176): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(177): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\njmau\source\repos\assign7.c\assign7.c\assign7.c(177): warning C4024: 'atoi': different types for formal and actual parameter 1
+  assign7.c.vcxproj -> C:\Users\njmau\source\repos\assign7.c\Debug\assign7.c.exe
